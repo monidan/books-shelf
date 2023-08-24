@@ -12,7 +12,7 @@ That's going to be my own implementation of a digital library for a books which 
 - Mocha
 - Sequelize
 
-**Frontend*
+**Frontend**
 TBD.
 
 **Database**
